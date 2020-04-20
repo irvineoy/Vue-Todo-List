@@ -1,24 +1,10 @@
-# todo
+# VUE Todo list
 
-## Project setup
-```
-npm install
-```
+## 介绍
+这是一个用VUE实现的纯前端Todo List项目。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 页面
+![alt home](intro_image/home.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 版本
+vue-cli4
